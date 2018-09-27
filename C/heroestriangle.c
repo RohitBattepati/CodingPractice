@@ -24,7 +24,7 @@ int main(void){
 	
 	
 	
-	float area = sqrt(s(s-a)(s-b)(s-c));
+	int area = sqrt(s(s-a)(s-b)(s-c));
 	
 	printf("%i \n", area);
 }

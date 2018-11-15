@@ -1,4 +1,4 @@
-#Write a Python program to take two numbers from keyboard and find maximum out of them.
+#4. Write a Python program to take two numbers from keyboard and find maximum out of them.
 
 x = float(input("Enter the first number: "))
 y = float(input("Enter the second number: "))

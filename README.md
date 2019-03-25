@@ -4,7 +4,7 @@
 
 | Question      | Solution |
 | ----------- | ----------- |
-| 1. Write a JavaScript Program to swap given numbers. | JavaScript/swapNumbers1.js |
+| 1. Write a JavaScript Program to swap given numbers. | [swapNumbers1.js](JavaScript/swapNumbers1.js) |
 | 2. Write a JavaScript program to check given number is a string or not.| JavaScript/stringOrNot2       |
 | 3. Write a JavaScript program to add two numbers.   | JavaScript/addNumbers3.js       |
 | 4. Write a JS program to find maximum of two numbers.   | JavaScript/maxOfTwoNum4.js       |

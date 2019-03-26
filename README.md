@@ -19,3 +19,6 @@
 | 13. Write a JavaScript Program to generate fibonacci series| [fibonnaciSeries13.js](JavaScript/fibonnaciSeries13.js)|
 | 14. Write a JavaScript Program to print even numbers between 1 and 10| [evenNums14.js](JavaScript/evenNums14.js)|
 | 15. Write a JavaScript Program to print odd numbers between 1 and 10| [oddNums15.js](JavaScript/oddNums15.js)|
+| 16. Write a JavaScript Program to take in a number and display all the factors| [displayFactors16.js](JavaScript/displayFactors16.js)|
+| 17. Write a JavaScript Program to print odd numbers between 1 and 10| [countFactors17.js](JavaScript/countFactors17.js)|
+| 18. Write a Program to find total of all factors of given number.| [sumFactors18.js](JavaScript/sumFactors18.js)|

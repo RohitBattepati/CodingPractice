@@ -22,3 +22,8 @@
 | 16. Write a JavaScript Program to take in a number and display all the factors| [displayFactors16.js](JavaScript/displayFactors16.js)|
 | 17. Write a JavaScript Program to print odd numbers between 1 and 10| [countFactors17.js](JavaScript/countFactors17.js)|
 | 18. Write a Program to find total of all factors of given number.| [sumFactors18.js](JavaScript/sumFactors18.js)|
+| 19. Write a JavaScript Program to accept a number and print its digits| [digitsNums19.js](JavaScript/digitsNums19.js)|
+| 20. Write a JavaScript program to find the sum of digits of given number.| [countDigits20.js](JavaScript/countDigits20.js)|
+| 21. Write a Program to find the sum of digits of given number| [sumDigits21.js](JavaScript/sumDigits21.js)|
+| 22. Write a JavaScript Program to reverse the given number| [reverseDigits22.js](JavaScript/reverseDigits22.js)|
+

@@ -26,4 +26,7 @@
 | 20. Write a JavaScript program to find the sum of digits of given number.| [countDigits20.js](JavaScript/countDigits20.js)|
 | 21. Write a Program to find the sum of digits of given number| [sumDigits21.js](JavaScript/sumDigits21.js)|
 | 22. Write a JavaScript Program to reverse the given number| [reverseDigits22.js](JavaScript/reverseDigits22.js)|
+| 26. Write a javascript program to check if a given number is prime or not| [primeNumOrNot26.js](JavaScript/primeNumOrNot26.js)|
+| 27. Write a JavaScript Program to display all prime numbers between 1 to 100.| [allPrimes27.js](JavaScript/allPrimes27.js)|
+| 31. Write a JavaScript Program to display Mathematical Table of a Given number| [mathTable28.js](JavaScript/mathTable31.js)|
 

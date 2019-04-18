@@ -14,3 +14,4 @@ function displayFactors(n){
 
 displayFactors(10);
 displayFactors(4);
+displayFactors(2);

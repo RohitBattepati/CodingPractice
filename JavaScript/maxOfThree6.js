@@ -2,9 +2,7 @@
 
 function maxOfThree(a,b,c){
     console.log(
-        a > b > c
-            ? a
-            : (b > c) ? b : c
+        ( a > b )    ?    ( a > c ? a : c)    :    ( b > c ? b : c)
 
 
         /*
@@ -18,7 +16,7 @@ function maxOfThree(a,b,c){
      );
 }
 
-maxOfThree(1,2,3);
+maxOfThree(100,2,3);
 maxOfThree(1,20,3);
 maxOfThree(-1,12,30);
 maxOfThree(0,0,0);

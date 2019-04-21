@@ -29,4 +29,12 @@
 | 26. Write a javascript program to check if a given number is prime or not| [primeNumOrNot26.js](JavaScript/primeNumOrNot26.js)|
 | 27. Write a JavaScript Program to display all prime numbers between 1 to 100.| [allPrimes27.js](JavaScript/allPrimes27.js)|
 | 31. Write a JavaScript Program to display Mathematical Table of a Given number| [mathTable28.js](JavaScript/mathTable31.js)|
+| 33. Write a Javascript program to display natural numbers of first 10| [naturalNums33.js](JavaScript/naturalNums33.js)|
+| 34. Write a JavaScript program to display all even numbers below 20.| [evenNums34.js](JavaScript/evenNums34.js)|
+| 35. Write a JavaScript program to display mentioned alphabet Patterns(See Comments).| [alphaPatterns35.js](JavaScript/alphaPatterns35.js)|
+| 36. Write a javaScript Program to find out maximum of two numbers using Ternary Operator| [ternaryOp36.js](JavaScript/ternaryOp36.js)|
+| 37. Write a javaScript Program to find out minimum of two numbers using Ternary Operator| [ternaryMin37.js](JavaScript/ternaryMin37.js)|
+| 38.	Write a JavaScript program to find out maximum of three numbers using Ternary operator.| [ternaryThree38.js](JavaScript/ternaryThree38.js)|
+
+
 

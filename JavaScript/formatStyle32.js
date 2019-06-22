@@ -72,5 +72,38 @@ function pattern4(){
     } 
 }
 
-*/
 
+
+
+ function pattern5(){
+    
+    let result = "";
+    for ( let i =5 ;i >= 1; i--){
+        
+        for ( let j = 1; j<i+1; j++){  
+            result += i+" ";
+        }
+        
+        console.log(result);
+        result=""; 
+    } 
+}
+
+pattern5();
+
+function pattern6(){
+    
+    let result = "";
+    for ( let i=5; i >=1; i--){
+        for ( let j=i; j >= 1; j--){
+            result += j+" ";
+            
+        }
+        
+        console.log(result);
+        result="";
+    }
+}
+
+pattern6();
+*/
